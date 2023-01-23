@@ -1,0 +1,10 @@
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.Form1.resources
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.Properties.Resources.resources
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\bin\Debug\yunuskimbesyuzister.exe.config
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\bin\Debug\yunuskimbesyuzister.exe
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\bin\Debug\yunuskimbesyuzister.pdb
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.exe
+C:\Users\90505\source\repos\yunuskimbesyuzister\yunuskimbesyuzister\obj\Debug\yunuskimbesyuzister.pdb
